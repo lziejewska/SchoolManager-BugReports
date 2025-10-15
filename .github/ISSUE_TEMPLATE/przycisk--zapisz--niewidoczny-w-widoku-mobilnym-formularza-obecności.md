@@ -3,7 +3,7 @@ name: Przycisk 'Zapisz' niewidoczny w widoku mobilnym formularza obecności
 about: W wersji mobilnej aplikacji przycisk 'Zapisz' w formularzu obecności wychodzi
   poza widoczny obszar ekranu.
 title: ''
-labels: bug
+labels: bug, mobile, responsive, ui
 assignees: ''
 
 ---
