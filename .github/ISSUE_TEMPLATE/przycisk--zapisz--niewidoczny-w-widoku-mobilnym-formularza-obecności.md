@@ -32,4 +32,4 @@ Wersja aplikacji: 2.3.1
 [x] Średni
 [ ] Niski
 
-**Update:**Błąd został naprawiony w wersji 2.3.2
+**Update:** Błąd został naprawiony w wersji 2.3.2
