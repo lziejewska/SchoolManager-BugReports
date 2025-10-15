@@ -13,15 +13,19 @@ assignees: ''
 2. Wpisz login: jan.kowalski@szkola.pl
 3. Wpisz hasło: Test123!
 4. Kliknij przycisk "Zaloguj"
+
 **Oczekiwany rezultat:**
 Użytkownik zostaje zalogowany i przekierowany do panelu nauczyciela
+
 **Rzeczywisty rezultat:**
 Wyświetla się komunikat "Invalid credentials" i użytkownik pozostaje na stronie
 logowania
+
 **Środowisko:**
 Windows 11, 
 Chrome 120, 
 Wersja aplikacji: 2.3.1
+
 **Priorytet:**
 [x] Krytyczny
 [ ] Wysoki
