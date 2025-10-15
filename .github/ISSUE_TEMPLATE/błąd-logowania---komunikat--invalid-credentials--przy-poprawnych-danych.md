@@ -31,3 +31,6 @@ Wersja aplikacji: 2.3.1
 [ ] Wysoki
 [ ] Średni
 [ ] Niski
+
+**Update:** Problem występuje również w przeglądarce Safari.
+Testowałem na macOS Sonoma.

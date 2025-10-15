@@ -31,3 +31,5 @@ Wersja aplikacji: 2.3.1
 [ ] Wysoki
 [x] Średni
 [ ] Niski
+
+**Update:**Błąd został naprawiony w wersji 2.3.2
